@@ -1,0 +1,23 @@
+bleeding-edge-toolchain
+build date: 2019-05-26
+build system: Linux 4.15.0-46-generic #49~16.04.1-Ubuntu SMP Tue Feb 12 17:45:24 UTC 2019 x86_64 GNU/Linux
+host system: x86_64 GNU/Linux
+target system: arm-none-eabi
+compiler: gcc 5.4.0
+5.4.0
+
+Toolchain components:
+- gcc-9.1.0
+- newlib-3.1.0
+- binutils-2.32
+- gdb-8.2.1
+
+-en - expat-2.2.6
+- gmp-6.1.2
+- isl-0.21
+- mpc-1.1.0
+- mpfr-4.0.2
+- zlib-1.2.11
+
+This package and info about it can be found on Freddie Chopin's website:
+http://www.freddiechopin.info/
